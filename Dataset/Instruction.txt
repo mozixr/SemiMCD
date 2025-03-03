@@ -1,0 +1,1 @@
+Please put the image into the "test" folder in the corresponding folder, and then cut two images into the "train" folder. The corresponding labels are placed in the "label" folder. The labels need to be processed as a single-channel image, where the pixel values ​​of the background, left lung, and right lung are 0, 1, and 2, respectively (Shenzhen are 0, 1).
